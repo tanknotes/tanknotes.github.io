@@ -1,0 +1,41 @@
+Fight Summary
+[Normal/Heroic] One tank will be on Taloc (Phase 1 + 3), the other will be on Coalesced Bloods (Phase 2 + 3)
+[Mythic] You will tank swap every time Enlarged Heart is cast - Split this with your melee clump
+[Mythic] Stay away from people with Clogged Arteries (8y splash)
+Stay out of the Blood Storm
+When Taloc reaches 100 energy he will cast Cudgel of Gore. Move into/near a patch of Blood Storm. The boss will then charge at you and throw his hammer on the floor. This will then suck up all the nearby Blood Storm puddles.
+The boss will resume attacking you after this and then retireve the Cudgel. You can either tank him at this new location or bring it back to your tanking spot. This is strategy dependant.
+
+
+Damage Profile
+
+80% Physical (Auto Attack)
+20% Magic (Shadow) - This is lower if you avoid the cudgel smash
+
+Tanking Notes
+[Normal/Heroic] There is no strict tank swap on this fight.
+[Mythic] You swap the boss every time the active tank has the Enlarged Heart debuff.
+
+Fight Tips/Tricks
+[Paladin] You can divine steed out of the cudgel after Taloc has charged at you to take 0 dmg from it
+[Paladin] You can use Spellwarding or Divine shield when Taloc uses Cudgel to take 0 dmg from it
+[Monk] You can transcend/roll out of the cudgel after Taloc has charged at you to take 0 dmg from it
+[Monk] Ring of peace can be very effective in the intermission phase to keep adds at bay, however this may annoy your melee DPS
+[Monk] You can Leg Sweep the adds in phase 2 (elevator) on the edge of the Blood Storm to allow your melee to nuke them safely
+[Warrior] You can heroic leap out of the cudgel after Taloc has charged at you to take 0 dmg from it
+[Warrior] You can shockwave the adds in phase 2 (elevator) on the edge of the Blood Storm to allow your melee to nuke them safely
+[Druid] You can dash out of the cudgel after Taloc has charged at you to take 0 dmg from it
+[Druid] Typhoon works to displace the adds in phase 2 (elevator)
+[Demon Hunter] You can leap out of the cudgel after Taloc has charged at you to take 0 dmg from it
+[Demon Hunter] You can use Sigil of Chains to group up the adds in phase 2 (elevator)
+[Death Knight] You can use AMS on the Cudgel of Gore to reduce the damage taken from it
+[Death Knight] If you have chosen Rune Tap talent, this will be available for every Cudgel of Gore cast
+[Death Knight] You can Death Grip and Gorefiend's Grasp the adds in phase 2 (elevator)
+
+Recommended Talents
+[Paladin] - Image
+[Monk] - Image
+[Warrior] - Image
+[Druid] - Image
+[Demon Hunter] - Image
+[Death Knight] - Image
